@@ -1,0 +1,74 @@
+%PDF-1.4
+%“Œ‹ž ReportLab Generated PDF document (opensource)
+1 0 obj
+<<
+/F1 2 0 R /F2 3 0 R
+>>
+endobj
+2 0 obj
+<<
+/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
+>>
+endobj
+3 0 obj
+<<
+/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
+>>
+endobj
+4 0 obj
+<<
+/Contents 8 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 7 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
+>>
+endobj
+5 0 obj
+<<
+/PageMode /UseNone /Pages 7 0 R /Type /Catalog
+>>
+endobj
+6 0 obj
+<<
+/Author (\(anonymous\)) /CreationDate (D:20260723074424+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20260723074424+00'00') /Producer (ReportLab PDF Library - \(opensource\)) 
+  /Subject (\(unspecified\)) /Title (\(anonymous\)) /Trapped /False
+>>
+endobj
+7 0 obj
+<<
+/Count 1 /Kids [ 4 0 R ] /Type /Pages
+>>
+endobj
+8 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 851
+>>
+stream
+Gat=)9lldX&A@sBm&B#g>&4dej4kX;URcDY1nf\r3jMRIM*P$rAGko._Uu+J"inLh1ZD"'hCcE9"GZ]5o$%etMZ<t5"GdH%,7r2k+BZEZd/2QBe]s!^'9>,e5P=OL!lGYt;%M!9D)aYF?mlhIDaV(<%7J2\LCD3ei^!kKLQ"#T,m6&SrWp=R"J=VqrZ7m7M9eB!HaZ;Va6Hi/;KA&X6d*.T#lQieSiAM;#UB.j8QfY0DX53JdNQi6L-$t(a#=M41J5Qg>bhte;AP1T_h(gXieNNS7ZE(kW:;rD)Pm=4Ka%pmOcH?g'1q@Z8ffkZ"qFltE$P!*Q-Zlo9!/S8E@TURQmGE%U`q9l7JW,\79upHMY'`oll1>&gBCjQ(G8^RnC4fPR#FcSE1q!gi^3`fQ"5U-)QqKo)hRC9B%U*[LV2"r7`d0Yd^OQ"5F/aC`CkPJORDV6MSI8O?&sH-+C#^"kX"N%U-^KK`7.&\*g7RF*#Ed=e0CP6Vhnj.']ns<n2r>kH),_W$^GUOpLtNi<@66'KW0.P#kPH+JqY8)jtr2+c(umVkLb/td)\GZdKdn?A>HRdERH1F1nJg[\W)mSDl($YlHi\CK'&#mlJM2,jT5m1eZ+-n:J<T'-Hj^?K*Z6q/01UN_$YUnaLP'nl3=\Lr`#J;XF_AOq;(&!C[fnuZRh;l;:G%_]Lhk"fNnfP4O#W/hbZDE3gR&]^$C^89mj*A-B#%@4.@;]f>l.]Jj.S0eKQBf[q`f2bon_W__HBeUg.aVM2.?j*/l3_`n"5BSq;;D;U%VVX0a@N\FLLBXJT98?)0>mCIMI.6X/<nPa7ZRP3-O0gV+e.]HQQ@"hfC!/n3H~>endstream
+endobj
+xref
+0 9
+0000000000 65535 f 
+0000000061 00000 n 
+0000000102 00000 n 
+0000000209 00000 n 
+0000000321 00000 n 
+0000000524 00000 n 
+0000000592 00000 n 
+0000000872 00000 n 
+0000000931 00000 n 
+trailer
+<<
+/ID 
+[<64a3a572e69faded2c959cb6fc9893dd><64a3a572e69faded2c959cb6fc9893dd>]
+% ReportLab generated PDF document -- digest (opensource)
+
+/Info 6 0 R
+/Root 5 0 R
+/Size 9
+>>
+startxref
+1872
+%%EOF
